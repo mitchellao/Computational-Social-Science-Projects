@@ -1,0 +1,10 @@
+git clone https://github.com/mitchellao/Computational-Social-Science-Projects.git 
+	cd Computational-Social-Science-Projects
+mkdir Project_1
+cd Project_1
+touch text.txt
+nano text.txt 
+git add .
+git commit . -m "Adding project 1 directory"
+git push 
+
